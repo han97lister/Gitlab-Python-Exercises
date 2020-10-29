@@ -1,0 +1,1 @@
+#give a word, find all subwords in it
